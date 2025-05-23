@@ -5,3 +5,15 @@
 Rxn Roblox Injector is the first injector to use powershell and python **ONLY** to inject into roblox. This might get patched if this gets popular and gets recognized by roblox staff team. I will try my best to keep on with updates and make this undetected.
 
 > We will **NOT** be adding auto update because it will be marked as trojan and malicious.
+> THIS TOOL IS EASILY CLONEABLE SO BEWARE OF COPIES (they could be malware).
+
+## Bugs:
+1. Only works on Roblox web version.
+2. Renaming the roblox will make the injection to fail.
+3. If you don't have python installed to path, it will either crash or not inject.
+4. It should work with windows defender (atleast as of V1.0.0), but other anti virus might false mark it as virus.
+
+## Todo:
+1. Inject other scripts.
+2. Option to remove injected scripts.
+3. Not get falsely marked as virus.
