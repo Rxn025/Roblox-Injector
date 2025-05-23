@@ -7,6 +7,14 @@ Rxn Roblox Injector is the first injector to use powershell and python **ONLY** 
 > We will **NOT** be adding auto update because it will be marked as trojan and malicious.
 > THIS TOOL IS EASILY CLONEABLE SO BEWARE OF COPIES (they could be malware).
 
+## Steps:
+1. Keep roblox open.
+2. Open injector.
+3. Inject.
+4. Close roblox.
+5. Reopen roblox
+( There should be a message that pops up everytime you open roblox now )
+
 ## 🐛 Bugs:
 1. Only works on Roblox web version.
 2. Renaming the roblox will make the injection to fail.
